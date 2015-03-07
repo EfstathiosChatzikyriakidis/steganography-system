@@ -1,0 +1,15 @@
+QStatusBar
+{
+	background-color: qlineargradient(spread:pad, x1:0.222364, y1:0, x2:1, y2:0, stop:0 rgba(255, 231, 224, 255), stop:1 rgba(255, 255, 255, 255));
+	color: rgb(0, 0, 0);
+}
+
+QPlainTextEdit
+{
+	border: 2px solid gray;
+	border-radius: 10px;
+	padding: 0 6px;
+	background-color: rgb(255, 237, 235);
+	color: rgb(0, 0, 0);
+	selection-background-color: darkgray;
+}

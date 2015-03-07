@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/UI/MainWindow/Graphics">
+        <file alias="WindowIcon">Resources/UI/MainWindow/Graphics/WindowIcon.png</file>
+        <file alias="AlgorithmsIcon">Resources/UI/MainWindow/Graphics/AlgorithmsIcon.png</file>
+        <file alias="AboutIcon">Resources/UI/MainWindow/Graphics/AboutIcon.png</file>
+        <file alias="HelpIcon">Resources/UI/MainWindow/Graphics/HelpIcon.png</file>
+    </qresource>
+    <qresource prefix="/UI/SplashScreen/Graphics">
+        <file alias="WindowBackground">Resources/UI/SplashScreen/Graphics/WindowBackground.png</file>
+    </qresource>
+</RCC>
